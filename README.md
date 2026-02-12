@@ -43,7 +43,6 @@ This is my first task for the AI & ML Internship. I cleaned and prepared the Tit
 
 ## Files in This Repo
 - `Data_Cleaning___Preprocessing.ipynb` - Main notebook with all the code
-- `Titanic-Dataset.csv` - Original dataset
 - `README.md` - This file
 
 ## What I Learned
